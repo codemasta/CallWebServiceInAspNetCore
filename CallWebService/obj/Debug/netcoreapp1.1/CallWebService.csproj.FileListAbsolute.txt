@@ -1,0 +1,11 @@
+c:\users\compiler\documents\visual studio 2017\Projects\CallWebService\CallWebService\bin\Debug\netcoreapp1.1\CallWebService.deps.json
+c:\users\compiler\documents\visual studio 2017\Projects\CallWebService\CallWebService\bin\Debug\netcoreapp1.1\CallWebService.runtimeconfig.json
+c:\users\compiler\documents\visual studio 2017\Projects\CallWebService\CallWebService\bin\Debug\netcoreapp1.1\CallWebService.runtimeconfig.dev.json
+c:\users\compiler\documents\visual studio 2017\Projects\CallWebService\CallWebService\bin\Debug\netcoreapp1.1\CallWebService.dll
+c:\users\compiler\documents\visual studio 2017\Projects\CallWebService\CallWebService\bin\Debug\netcoreapp1.1\CallWebService.pdb
+c:\users\compiler\documents\visual studio 2017\Projects\CallWebService\CallWebService\obj\Debug\netcoreapp1.1\CallWebService.csprojResolveAssemblyReference.cache
+c:\users\compiler\documents\visual studio 2017\Projects\CallWebService\CallWebService\obj\Debug\netcoreapp1.1\CallWebService.AssemblyInfo.cs
+c:\users\compiler\documents\visual studio 2017\Projects\CallWebService\CallWebService\obj\Debug\netcoreapp1.1\CallWebService.dll
+c:\users\compiler\documents\visual studio 2017\Projects\CallWebService\CallWebService\obj\Debug\netcoreapp1.1\CallWebService.pdb
+c:\users\compiler\documents\visual studio 2017\Projects\CallWebService\CallWebService\bin\Debug\netcoreapp1.1\CallWebService.Core.dll
+c:\users\compiler\documents\visual studio 2017\Projects\CallWebService\CallWebService\bin\Debug\netcoreapp1.1\CallWebService.Core.pdb

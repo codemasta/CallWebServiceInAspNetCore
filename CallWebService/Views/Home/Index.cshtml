@@ -1,0 +1,19 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<form asp-controller="Home" asp-action="Index" method="post">
+    <div class="row">
+        <div class="col-md-6">
+            <input type="text" name="firstNumber" />
+        </div>
+        <br />
+        <div class="col-md-6">
+            <input type="text" name="secondNumber" />
+        </div>
+        <br />
+        <input type="submit" value="Add Numbers" />
+        <br/>
+        @ViewBag.Result 
+    </div>
+</form>
